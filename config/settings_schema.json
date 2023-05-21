@@ -1,0 +1,21 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Romain",
+    "theme_version": "1.0.0",
+    "theme_author": "RomainCapelle",
+    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
+    "theme_support_url": "https://support.shopify.com/"
+  },
+  {
+    "name": "Logo",
+    "settings": [
+      {
+        "type": "text",
+        "id": "logo_store_name",
+        "label": "Store Name",
+        "default": "Romain Theme"
+      }
+    ]
+  }
+]
